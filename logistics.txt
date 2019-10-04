@@ -1,0 +1,20 @@
+Project 2:
+
+Project Name: Logistics
+
+Client: UK
+
+Technology: ASP.NET, C#.NET, SQL Server 2005
+
+Team Size: 8
+
+Description:
+        The main aim of this project is providing cab services to client(hospital staff).There will be a software enabled application regarding cab cervices.Where hospital provides Login credentials and tells to their staff to regester in to their application .While regestering he/she should provides certain deatails regarding duty timings,location,pickup and drope timings etc.
+        There will be a certain CRM(Custom Relations Management)  Modules in an application .They are :
+ 1.Driver module - details of driver
+2.Fleet management - Regarding Vehicles
+3.Trip management-Total trips and details of trips
+4.Alerts-SMS popup regarding cab reachability
+5.Settings -Regarding time change,location change 
+6.Summary - Overall trips and use of cabs 
+   This software enabled application provides a never before experience to users regarding transportation.Where one can reach to his/her hospital in time and with out any delays.In this case Doctors and hospital staff reaches in time and saves many lifes
